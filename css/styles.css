@@ -1,0 +1,25 @@
+body {
+      background-color: powderblue;
+        }
+        hr {
+          border-style: dotted none none;
+          border-color: grey;
+          border-width: 5px;
+          height: 0px;
+          width: 0.8cm;  
+        }
+        h1{
+         color: #66BFBF;
+        }
+        h2{
+            color: darkgoldenrod;
+        }
+        h3{
+            color: maroon;
+        }
+        h4{
+            color: orangered;
+        }
+        
+    
+
